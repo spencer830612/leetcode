@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7ad776e-9f8a-4928-b8a4-f880a1a29afd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/code/S155MinStack.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/code/A1235MaximumProfitInJobScheduling.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code/A1235MaximumProfitInJobScheduling.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/code/A336PalindromePairs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code/A336PalindromePairs.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/code/S020ValidParentheses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code/S020ValidParentheses.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/code/S150EvaluateReversePolishNotation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code/S150EvaluateReversePolishNotation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/code/S232ImplementQueueUsingStacks.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code/S232ImplementQueueUsingStacks.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/code/S844BackspaceStringCompare.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code/S844BackspaceStringCompare.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/code/S844BackspaceStringCompare02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/code/S844BackspaceStringCompare02.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +28,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "spencer830612"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/spencer830612/leetcode.git",
