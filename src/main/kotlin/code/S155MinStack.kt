@@ -1,6 +1,7 @@
 package org.leetcode.code
 
 import java.util.Stack
+import kotlin.math.min
 
 class S155MinStack {
     init {
