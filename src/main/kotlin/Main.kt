@@ -1,9 +1,9 @@
 package org.leetcode
 
-import org.leetcode.code.S739DailyTemperatures
+import org.leetcode.code.S735AsteroidCollision
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
-   S739DailyTemperatures()
+   S735AsteroidCollision()
 }
